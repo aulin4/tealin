@@ -1,0 +1,22 @@
+{
+  "name": "tea-lin",
+  "version": "1.1.4",
+  "description": "just test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aulin4/tealin.git"
+  },
+  "keywords": [
+    "npx"
+  ],
+  "author": "aulin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aulin4/tealin/issues"
+  },
+  "homepage": "https://github.com/aulin4/tealin#readme"
+}
